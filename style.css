@@ -1,0 +1,112 @@
+.menu-area{
+    background-color: #e3f2fd;
+    padding: 5px 0;
+}
+.logo-area img{
+    width: 60px;
+    margin-top: 6px;
+}
+.logo-area{
+    margin-left: 25px;
+}
+.nave-area ul{
+    margin: 0;
+    padding: 0;
+}
+.nave-area ul li{
+    display: inline-block;
+}
+.nave-area ul li a{
+    text-decoration: none;
+    padding: 0 10px;
+    color: #919aa1;
+    font-size: 14px;
+    line-height: 75px;
+}
+.nave-area ul li a:hover{
+    color: #535252;
+}
+.nave-area ul li a.active{
+    color: #000000;
+}
+.form-area{
+    /* text-align: right; */
+    margin-top: 23px;
+    margin-left: 38%;
+    margin-top: 18px;
+}
+.form-area form input{
+    padding: 8px;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid #ddd;
+    margin-right: 5px;
+}
+.form-area form input:nth-child(2){
+    border: 1px solid #4ab567;
+    color: #4ab567;
+    font-size: 15px;
+    padding: 8px 17px;
+    transition: .4s;
+}
+.form-area form input:nth-child(2):hover{
+    background-color: green;
+    color: #ffffff;
+}
+/*start header-middel*/
+.header-middel{
+    padding-top: 40px;
+}
+.home-area{
+    margin-right: 10px;
+}
+.breadcrumb{
+    border: 1px solid #ddd;
+    padding: 10px;
+    background-color: #e9ecef;
+}
+/*start banner area*/
+.about-area{
+    padding: 80px 0;
+    width: 100%;
+}
+.well{
+    font-size: 25px;
+}
+.carousel-inner img{
+    height: 600px;
+}
+/*start color area design*/
+.progress{
+    margin: 5px 0;
+}
+.color2{
+    background-color: #48b461;
+}
+.cola a{
+    text-decoration: none;
+}
+
+
+.model3{
+    text-align: right;
+}
+.model-area{
+    padding: 80px 0;
+}
+
+.povober-area2{
+    margin-left: 360px;
+}
+.footer-area{
+    background-color: #17a2b8;
+    padding: 20px 0;
+    color: #ffffff;
+    font-size: 18px;
+}
+a.sad{
+    text-decoration: none;
+}
+a.sad:focus{
+    text-decoration: underline;
+}
